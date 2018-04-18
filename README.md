@@ -1,1 +1,1 @@
-# test_admin 1..2..3
+# test_admin 1
