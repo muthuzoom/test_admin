@@ -1,1 +1,10 @@
-welcome to zoomcar
+#!/bin/bash
+echo "pid is $$"
+while (( count < 02))
+
+do sleep 10
+(( count ++ ))
+echo $count
+done
+exit
+  
